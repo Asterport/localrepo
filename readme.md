@@ -1,0 +1,1 @@
+# firstly push git push -u origin main this will create a shortcut like git push if you are working on a project for a long time this will help
